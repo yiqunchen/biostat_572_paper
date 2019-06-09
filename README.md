@@ -2,7 +2,8 @@
 We document code and procedures to reproduce the paper "Exact spike train inference  via $\ell_0$ optimization"
 
 - example_notebook.ipynb demonstrates the use of our code by reproducing figure 2 in the expository piece
-
+- presentations/
+	3 presentations (Intro/method/final)
 - code/
 	- ell_0_spike.py reproduces the timing result in figure 3
 	- cv_ell_0_spike.py reproduces the simulation result in figure 4
